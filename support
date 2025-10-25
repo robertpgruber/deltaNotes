@@ -1,0 +1,47 @@
+📘 DeltaNotes Support
+
+Thank you for using DeltaNotes!
+If you’re experiencing issues or have feedback, please follow the steps below.
+
+⸻
+
+🛠️ Common Questions
+
+1. My notes aren’t syncing.
+Make sure you’re signed into the same iCloud account on all devices and that iCloud Drive is enabled under Settings → [Your Name] → iCloud → iCloud Drive → DeltaNotes.
+
+2. I can’t upgrade to Premium.
+If your purchase didn’t complete, try restoring purchases from the Paywall or Settings screen.
+Tap Restore Purchases, then sign in with the same Apple ID you used for the original purchase.
+
+3. I want to cancel my subscription.
+You can cancel anytime in Settings → Apple ID → Subscriptions.
+Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period.
+
+⸻
+
+🧩 Bug Reports / Feature Requests
+
+If something isn’t working or you’d like to suggest an improvement:
+	1.	Go to Issues.
+	2.	Click New Issue.
+	3.	Choose a title that describes the problem or feature (e.g., “Crash when saving thought”).
+	4.	In the description, include:
+	•	iOS version
+	•	App version (see in Settings → DeltaNotes)
+	•	Steps to reproduce (if it’s a bug)
+	•	Screenshots or error messages (if possible)
+
+⸻
+
+💬 Contact
+
+If you need direct help or a private conversation, email:
+robertpgruber@icloud.com (or any address you prefer to use).
+
+⸻
+
+🛡️ Privacy
+
+DeltaNotes uses Apple’s CloudKit to store your data privately in your personal iCloud account.
+We do not collect or share your notes or personal information.
